@@ -1,23 +1,27 @@
 # 🏠 BWA Cozy App
 
-Aplikasi **BWA Cozy** adalah project Flutter yang menampilkan daftar tempat tinggal (cozy spaces) dengan desain modern dan user-friendly. Project ini dibuat sebagai bagian dari pembelajaran Flutter sekaligus portofolio pengembangan mobile app.
+Aplikasi **BWA Cozy** adalah project Flutter untuk mencari kos kosan yang nyaman (cozy spaces) dengan desain modern dan user-friendly. Project ini dibuat sebagai bagian dari pembelajaran Flutter sekaligus portofolio pengembangan mobile app.
 
 ---
 
 ## ✨ Features
 
-* 🔍 Menampilkan daftar tempat tinggal (spaces)
+* 🔍 Menampilkan daftar kosa kosan
 * 🖼️ Galeri foto horizontal pada detail space
-* ⭐ Sistem rating visual
+* ⭐ Sistem rating
 * 🧭 Navigasi antar halaman (Home → Detail)
-* ⚠️ Error handling pada gambar (fallback UI)
 * 🎨 UI modern dengan clean design
 
 ---
 
 ## 📱 Screenshots
 
-> *(Tambahkan screenshot aplikasi kamu di sini nanti biar makin menarik)*
+<img width="720" height="1600" alt="pic3" src="https://github.com/user-attachments/assets/e47206e1-f475-4687-9bf3-e8b989cc5ba0" />
+<img width="720" height="1600" alt="pic2" src="https://github.com/user-attachments/assets/e987af3d-d869-47ad-90d3-b2c2e040e5e7" />
+<img width="720" height="1600" alt="pic1" src="https://github.com/user-attachments/assets/2a8e6cfa-a058-475a-92c1-53efb0584506" />
+
+
+
 
 ---
 
@@ -26,6 +30,8 @@ Aplikasi **BWA Cozy** adalah project Flutter yang menampilkan daftar tempat ting
 * **Flutter**
 * **Dart**
 * **Provider (State Management)**
+* **url_launcher**
+* **http**
 * **REST API / Dummy Data**
 
 ---
@@ -82,22 +88,11 @@ Project ini dibuat untuk:
 
 ---
 
-## 📌 Catatan
-
-Project ini masih bisa dikembangkan lebih lanjut, seperti:
-
-* 🔐 Authentication (Login/Register)
-* ❤️ Favorite / Wishlist
-* 🌐 Integrasi API real
-* 💬 Review & komentar user
-
----
-
 ## 👨‍💻 Author
 
 **Mun'im Sudrajat**
 📌 Mahasiswa & Aspiring Software Engineer
-🚀 Fokus: Mobile Development & Freelancing
+🚀 Fokus: Mobile Development
 
 ---
 
@@ -110,5 +105,9 @@ Kalau kamu suka project ini:
 * 💡 Beri feedback atau saran
 
 ---
+
+## 🙏 Acknowledgement
+
+Project ini dibuat berdasarkan pembelajaran dari BWA (BuildWithAngga) sebagai bagian dari portofolio pribadi dengan beberapa penyesuaian dan pemahaman mandiri.
 
 > "Build. Learn. Improve. Repeat."
