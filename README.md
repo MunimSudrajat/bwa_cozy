@@ -16,9 +16,9 @@ Aplikasi **BWA Cozy** adalah project Flutter untuk mencari kos kosan yang nyaman
 
 ## 📱 Screenshots
 <p align="center">
-<img width=30% height="500" alt="pic3" src="https://github.com/user-attachments/assets/e47206e1-f475-4687-9bf3-e8b989cc5ba0" />
-<img width=30% height="500" alt="pic2" src="https://github.com/user-attachments/assets/e987af3d-d869-47ad-90d3-b2c2e040e5e7" />
-<img width=30% height="500" alt="pic1" src="https://github.com/user-attachments/assets/2a8e6cfa-a058-475a-92c1-53efb0584506" />
+<img width=30% height="50%" alt="pic3" src="https://github.com/user-attachments/assets/e47206e1-f475-4687-9bf3-e8b989cc5ba0" />
+<img width=30% height="50%" alt="pic2" src="https://github.com/user-attachments/assets/e987af3d-d869-47ad-90d3-b2c2e040e5e7" />
+<img width=30% height="50%" alt="pic1" src="https://github.com/user-attachments/assets/2a8e6cfa-a058-475a-92c1-53efb0584506" />
 </p>
 
 
